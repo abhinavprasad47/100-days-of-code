@@ -36,7 +36,8 @@
 **Thoughts** I've integrated it with firebse, and it's a great feeling when I did the user registration page and registered myself in.
 
 **Link(s) to work**
-[pingme](https://drive.google.com/open?id=1t_UiauDP9tW7ReZJ6mgsikXlBinbfWpt)
-[source code](https://github.com/abhinavprasad47/Pingme)
+[pingme](https://drive.google.com/open?id=1t_UiauDP9tW7ReZJ6mgsikXlBinbfWpt).
+
+[source code](https://github.com/abhinavprasad47/Pingme).
 
 
