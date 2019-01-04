@@ -28,4 +28,15 @@
 
 **Link(s) to work**
  
- [ping me](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ [ping me](https://github.com/abhinavprasad47/Pingme)
+ ### Day 2: January 3
+ 
+**Today's Progress**: worked on the errors on fire base auth and did a dig into firebase docs.
+
+**Thoughts** I've integrated it with firebse, and it's a great feeling when I did the user registration page and registered myself in.
+
+**Link(s) to work**
+[pingme](https://drive.google.com/open?id=1t_UiauDP9tW7ReZJ6mgsikXlBinbfWpt)
+[source code](https://github.com/abhinavprasad47/Pingme)
+
+
